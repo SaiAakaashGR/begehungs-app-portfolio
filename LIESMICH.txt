@@ -1,0 +1,16 @@
+Portfolio: Begehungs-App (Sai Gangarapu, Werkstudent EHBS Knecht GmbH & Co. KG, 2026)
+
+Inhalt
+- Begehungs-App_Projektuebersicht_DE.docx  Projektbeschreibung auf Deutsch, mit Bildern
+- Inspection-App_Project-Overview_EN.docx  dieselbe Beschreibung auf Englisch
+- Demo-Bericht.pdf                          ein von der App erzeugter PDF-Bericht (Demo-Daten)
+- Bilder/1_Screenshots                      Bildschirmfotos der App (PC und Handy)
+- Bilder/2_Diagramme                        Aufbau der App und Ergebnis des KI-Tests (DE und EN)
+- Bilder/3_Demo-Material                    selbst erstellte Demo-Grundrisse, Demo-Mängelfotos, Demo-Logo
+
+Alle Firmen, Personen, Gebäude, Pläne und Fotos sind frei erfunden bzw. selbst gezeichnet.
+Es sind keine Kunden- oder Firmendaten enthalten. Veröffentlichung mit Zustimmung des Arbeitgebers.
+Der Quellcode gehört der EHBS Knecht GmbH & Co. KG und ist nicht enthalten.
+
+All companies, people, buildings, plans and photos are invented or self-drawn. No client or company data.
+Shared with the employer's permission. Source code is owned by EHBS Knecht GmbH & Co. KG and not included.
